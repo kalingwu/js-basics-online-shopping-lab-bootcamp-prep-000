@@ -103,5 +103,4 @@ function placeOrder(cardNumber) {
     var amount = total()
     
   }
-  }
 }
