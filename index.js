@@ -102,6 +102,5 @@ function placeOrder(cardNumber) {
   else {
     var amount = total()
     cart = []
-    
   }
 }
