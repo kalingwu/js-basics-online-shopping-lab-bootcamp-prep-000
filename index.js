@@ -102,6 +102,6 @@ function placeOrder(cardNumber) {
   else {
     var amount = total()
     console.log(`Your total cost is $${amount}, which will be charged to the card ${cardNumber}`)
-        cart = []
+    cart = []
   }
 }
